@@ -1,17 +1,15 @@
-# Test 123
-# plotti was here
 name: daily-report
 permissions:
   contents: write
 on:
   schedule:
-    - cron: ‘0 * * * *’
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3 
+      - uses: actions/checkout@v3
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
@@ -25,7 +23,14 @@ jobs:
         run: python parking_zuerich.py
       - name: Commit and push if the data has changed
         run: |
-          git config --global user.name ‘plotti2k1’
-          git config --global user.email ‘plotti2k1@users.noreply.github.com’
-          git commit -am “Automated report”
+          git config --global user.name 'plotti2k1'
+          git config --global user.email 'plotti2k1@users.noreply.github.com'
+          git commit -am "Automated report"
           git push
+
+
+
+
+
+
+
