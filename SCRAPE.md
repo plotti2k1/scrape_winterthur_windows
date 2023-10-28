@@ -26,3 +26,4 @@
 - 10:25 28.10.23 «Ein Poulet ist ein Huhn, fertig»
 - 11:14 28.10.23 «Ein Poulet ist ein Huhn, fertig»
 - 12:44 28.10.23 «Ein Poulet ist ein Huhn, fertig»
+- 13:20 28.10.23 «Ein Poulet ist ein Huhn, fertig»
