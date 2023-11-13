@@ -137,3 +137,4 @@
 - 06:30 13.11.23 Hier hat das Radio Kultstatus
 - 07:19 13.11.23 Hier hat das Radio Kultstatus
 - 08:30 13.11.23 Hier hat das Radio Kultstatus
+- 09:23 13.11.23 Hier hat das Radio Kultstatus
