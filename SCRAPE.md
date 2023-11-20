@@ -167,3 +167,4 @@
 - 14:30 20.11.23 Games – das eigene Schicksal testen
 - 15:27 20.11.23 Games – das eigene Schicksal testen
 - 16:32 20.11.23 Games – das eigene Schicksal testen
+- 17:21 20.11.23 Games – das eigene Schicksal testen
