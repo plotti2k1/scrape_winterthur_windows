@@ -152,3 +152,4 @@
 - 21:19 13.11.23 Hier hat das Radio Kultstatus
 - 22:28 13.11.23 Hier hat das Radio Kultstatus
 - 23:23 13.11.23 Hier hat das Radio Kultstatus
+- 02:17 20.11.23 Rüedu hadert mit Dieben
