@@ -185,3 +185,4 @@
 - 10:19 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
 - 11:15 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
 - 13:21 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
+- 14:18 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
