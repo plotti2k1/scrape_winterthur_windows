@@ -175,3 +175,4 @@
 - 22:30 20.11.23 Games – das eigene Schicksal testen
 - 23:24 20.11.23 Games – das eigene Schicksal testen
 - 02:16 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
+- 03:18 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
