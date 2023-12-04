@@ -211,3 +211,4 @@
 - 14:17 04.12.23 Es weihnachtet in Winterthur
 - 15:18 04.12.23 Es weihnachtet in Winterthur
 - 16:23 04.12.23 Es weihnachtet in Winterthur
+- 17:16 04.12.23 Es weihnachtet in Winterthur
