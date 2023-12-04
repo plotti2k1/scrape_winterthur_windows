@@ -197,3 +197,4 @@
 - 23:17 27.11.23 Brühlgutstiftung lässt Aspasia-Seife wieder aufleben
 - 01:17 04.12.23 Es weihnachtet in Winterthur
 - 02:30 04.12.23 Es weihnachtet in Winterthur
+- 03:18 04.12.23 Es weihnachtet in Winterthur
