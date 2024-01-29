@@ -401,3 +401,4 @@
 - 20:17 29.01.24 Heimspiel gewonnen: Kyburz/Lienhart begeistern beim Swiss Dance Award
 - 21:14 29.01.24 Heimspiel gewonnen: Kyburz/Lienhart begeistern beim Swiss Dance Award
 - 22:16 29.01.24 Heimspiel gewonnen: Kyburz/Lienhart begeistern beim Swiss Dance Award
+- 23:17 29.01.24 Heimspiel gewonnen: Kyburz/Lienhart begeistern beim Swiss Dance Award
