@@ -441,3 +441,4 @@
 - 14:15 12.02.24 Räumliche Leere mit Objekten kuratieren und aushalten
 - 15:17 12.02.24 Räumliche Leere mit Objekten kuratieren und aushalten
 - 16:22 12.02.24 Räumliche Leere mit Objekten kuratieren und aushalten
+- 17:14 12.02.24 Räumliche Leere mit Objekten kuratieren und aushalten
