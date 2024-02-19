@@ -449,3 +449,4 @@
 - 22:15 12.02.24 Räumliche Leere mit Objekten kuratieren und aushalten
 - 23:16 12.02.24 Räumliche Leere mit Objekten kuratieren und aushalten
 - 01:13 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
+- 02:23 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
