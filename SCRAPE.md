@@ -459,3 +459,4 @@
 - 09:17 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
 - 10:18 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
 - 11:13 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
+- 12:31 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
