@@ -473,3 +473,4 @@
 - 23:15 19.02.24 «Ur-Winterthurer-Teil» auf der Bühne
 - 01:13 26.02.24 Feenkönigin trifft Sommernachtstraum
 - 02:25 26.02.24 Feenkönigin trifft Sommernachtstraum
+- 03:18 26.02.24 Feenkönigin trifft Sommernachtstraum
