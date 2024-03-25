@@ -569,3 +569,4 @@
 - 09:16 25.03.24 ZHAW-Studierende bangen um ihre Zukunft
 - 10:17 25.03.24 ZHAW-Studierende bangen um ihre Zukunft
 - 11:15 25.03.24 ZHAW-Studierende bangen um ihre Zukunft
+- 12:30 25.03.24 ZHAW-Studierende bangen um ihre Zukunft
